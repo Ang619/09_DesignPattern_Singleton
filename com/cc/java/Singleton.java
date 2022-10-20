@@ -4,7 +4,7 @@ public class Singleton {
   
     /* Objektbildung */
 
-    private static Singleton instance;
+    private static Singleton instance;  
 
     private Singleton(){
         Helper.ausgabe("Hi, I'm there for you!");
